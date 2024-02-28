@@ -1,0 +1,20 @@
+[{
+    "labels":"Side",
+    "value":"35",
+    "backGroundColor ": "#4090ea"
+},{
+    "labels":"Distribute",
+    "value":"25",
+    "backGroundColor ": "yellow"
+
+},{
+    "labels":"Return",
+    "value":"20",
+    "backGroundColor ": "orange"
+
+},{
+    "labels":"",
+    "value":"20",
+    "backGroundColor ": "#eceff3"
+
+}]

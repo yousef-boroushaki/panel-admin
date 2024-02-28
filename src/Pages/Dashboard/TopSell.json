@@ -1,0 +1,14 @@
+[
+    {
+        "TopSellingProductName":"NIKE Shoes Blank Pattern",
+        "TopSellingProductRate":3,
+        "TopSellingProductPrice":"$87",
+        "TopSellingProductImage":"Assets/images/dashboard/topSell/shoes.png"
+    },
+    {
+        "TopSellingProductName":"iPhone12",
+        "TopSellingProductRate":4,
+        "TopSellingProductPrice":"$987",
+        "TopSellingProductImage":"Assets/images/dashboard/topSell/iphone12.png"
+    }
+]
