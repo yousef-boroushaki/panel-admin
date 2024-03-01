@@ -1,0 +1,102 @@
+[
+    {
+        "Name":"John Deo",
+        "Email":"johndeo2211@gmail.com",
+        "phone":"+33757005467",
+        "Gender":"male",
+        "job":"UI/UX Developer",
+        "Address":"1205 Joes Road",
+        "Image":"Assets/images/analytics/user1.png"
+        
+    },
+    {
+        "Name":"Shelby Goode",
+        "Email":"shelbygoode481@gmail.com",
+        "phone":"+33757005467",
+        "Gender":"female",
+        "job":"Web Developer",
+        "Address":"4978 Timberbrook Lane",
+        "Image":"Assets/images/analytics/user2.png"
+    },
+    {
+        "Name":"Robert Bacins",
+        "Email":"robertbacins4182@gmail.com",
+        "phone":"+33757005467",
+        "Gender":"male",
+        "job":"Front End Developer",
+        "Address":"1058 Lindale Avenue",
+        "Image":"Assets/images/analytics/user3.png"
+    },
+    {
+        "Name":"John Carilo",
+        "Email":"johncarilo182@gmail.com",
+        "phone":"+33757805467",
+        "Gender":"male",
+        "job":"Front End Developer",
+        "Address":"221 Windy Ridge Road",
+        "Image":"Assets/images/analytics/user4.png"
+    },
+    {
+        "Name":"Aderiene Watson",
+        "Email":"aderienewatson82@gmail.com",
+        "phone":"+83757305467",
+        "Gender":"female",
+        "job":"Flutter Developer",
+        "Address":"3779 Allison Avenue",
+        "Image":"Assets/images/analytics/user5.png"
+    },
+    {
+        "Name":"John Deo",
+        "Email":"johndeo24823@gmail.com",
+        "phone":"+63475700546",
+        "Gender":"male",
+        "job":"Library Keeper",
+        "Address":"3820 Chenoweth Drive",
+        "Image":"Assets/images/analytics/user6.png"
+    },
+    {
+        "Name":"Mark Ruffalo",
+        "Email":"markruffalo3735@gmail.com",
+        "phone":"+33757005467",
+        "Gender":"male",
+        "job":"Hair Dresser",
+        "Address":"1175 Kimberly Way",
+        "Image":"Assets/images/analytics/user7.png"
+    },
+    {
+        "Name":"Benthany Jackson",
+        "Email":"benthanyjackson5@gmail.com",
+        "phone":"+83757305467",
+        "Gender":"female",
+        "job":"Fashion Model",
+        "Address":"4048 Pallet Street",
+        "Image":"Assets/images/analytics/user8.png"
+    },
+    {
+        "Name":"Christine Huston",
+        "Email":"christinehuston4@gmail.com",
+        "phone":"+33757005467",
+        "Gender":"male",
+        "job":"Football Player",
+        "Address":"1901 Holt Street",
+        "Image":"Assets/images/analytics/user9.png"
+    },
+    {
+        "Name":"Anne Jacob",
+        "Email":"annejacob2@gmail.com",
+        "phone":"+33757005467",
+        "Gender":"male",
+        "job":"House Keeper",
+        "Address":"4189 Carriage Lane",
+        "Image":"Assets/images/analytics/user10.png"
+    },
+    {
+        "Name":"James Muilican",
+        "Email":"jamesmuilican5346@gmail.com",
+        "phone":"+33757005467",
+        "Gender":"male",
+        "job":"Esport Professional",
+        "Address":"4438 Michael Street",
+        "Image":"Assets/images/analytics/user11.png"
+    }
+]
